@@ -1,0 +1,124 @@
+# ChromCodex Theme for Home Assistant
+# Place this file in: config/themes/chromcodex.yaml
+
+ChromCodex:
+  # Primary Colors
+  primary-color: "#6FAF6F"
+  accent-color: "#A287C4"
+  dark-primary-color: "#6FAF6F"
+  light-primary-color: "#A89B85"
+  
+  # Text Colors
+  primary-text-color: "#EAE7DC"
+  text-primary-color: "#EAE7DC"
+  secondary-text-color: "#A89B85"
+  disabled-text-color: "#7A6F5B"
+  label-badge-border-color: "#6FAF6F"
+  
+  # Background Colors
+  primary-background-color: "#1B1C23"
+  secondary-background-color: "#21222c"
+  divider-color: "#2c2e3a"
+  
+  # Card and Surface Colors
+  card-background-color: "#21222c"
+  paper-card-background-color: "#21222c"
+  paper-dialog-background-color: "#2c2e3a"
+  paper-listbox-background-color: "#21222c"
+  paper-item-icon-color: "#7DB4B5"
+  paper-item-icon-active-color: "#6FAF6F"
+  
+  # Table Colors
+  table-row-background-color: "#21222c"
+  table-row-alternative-background-color: "#2c2e3a"
+  
+  # Sidebar
+  sidebar-background-color: "#1B1C23"
+  sidebar-icon-color: "#A89B85"
+  sidebar-text-color: "#EAE7DC"
+  sidebar-selected-background-color: "#2c2e3a"
+  sidebar-selected-icon-color: "#6FAF6F"
+  sidebar-selected-text-color: "#6FAF6F"
+  
+  # States and Badges
+  state-icon-color: "#7DB4B5"
+  state-icon-active-color: "#6FAF6F"
+  state-icon-unavailable-color: "#7A6F5B"
+  
+  # Switches
+  switch-checked-color: "#6FAF6F"
+  switch-unchecked-color: "#44475A"
+  switch-checked-button-color: "#EAE7DC"
+  switch-unchecked-button-color: "#7A6F5B"
+  
+  # Sliders
+  slider-color: "#6FAF6F"
+  slider-secondary-color: "#44475A"
+  slider-track-color: "#44475A"
+  
+  # Labels and Badges
+  label-badge-red: "#B84A4A"
+  label-badge-blue: "#7DB4B5"
+  label-badge-green: "#6FAF6F"
+  label-badge-yellow: "#D5A65A"
+  label-badge-grey: "#7A6F5B"
+  label-badge-text-color: "#EAE7DC"
+  label-badge-background-color: "#2c2e3a"
+  
+  # Input Fields
+  input-fill-color: "#2c2e3a"
+  input-label-ink-color: "#A89B85"
+  input-ink-color: "#EAE7DC"
+  input-disabled-fill-color: "#21222c"
+  input-disabled-ink-color: "#7A6F5B"
+  input-idle-line-color: "#44475A"
+  input-hover-line-color: "#6FAF6F"
+  input-dropdown-icon-color: "#A89B85"
+  
+  # Buttons
+  paper-item-selected-color: "#6FAF6F"
+  mdc-theme-primary: "#6FAF6F"
+  mdc-theme-secondary: "#A287C4"
+  mdc-theme-on-primary: "#1B1C23"
+  mdc-theme-on-secondary: "#1B1C23"
+  
+  # Additional Accent Colors for variety
+  google-red-500: "#B84A4A"
+  google-green-500: "#6FAF6F"
+  google-yellow-500: "#E3D58C"
+  google-blue-500: "#7DB4B5"
+  google-grey-500: "#7A6F5B"
+  
+  # Paper Elements
+  paper-grey-50: "#EAE7DC"
+  paper-grey-200: "#A89B85"
+  
+  # RGB Values (for transparency effects)
+  rgb-primary-color: "111, 175, 111"
+  rgb-accent-color: "162, 135, 196"
+  rgb-primary-text-color: "234, 231, 220"
+  rgb-text-primary-color: "234, 231, 220"
+  rgb-card-background-color: "33, 34, 44"
+  
+  # Additional UI Elements
+  ha-card-border-radius: "8px"
+  ha-card-box-shadow: "0 2px 8px 0 rgba(0,0,0,0.3)"
+  
+  # Markdown
+  markdown-code-background-color: "#2c2e3a"
+  
+  # Header
+  app-header-background-color: "#1B1C23"
+  app-header-text-color: "#EAE7DC"
+  
+  # Checkboxes
+  mdc-checkbox-unchecked-color: "#44475A"
+  mdc-checkbox-checked-color: "#6FAF6F"
+  mdc-checkbox-ink-color: "#1B1C23"
+  
+  # Radio Buttons
+  mdc-radio-unchecked-color: "#44475A"
+  mdc-radio-checked-color: "#6FAF6F"
+  
+  # Chips
+  chip-background-color: "#2c2e3a"
